@@ -1,0 +1,12 @@
+.eight-ball {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  color: white;
+}
+
+.eight-ball-message {
+  position: relative;
+  top: 135px;
+  font-size: 18px;
+}
